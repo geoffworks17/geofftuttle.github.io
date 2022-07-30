@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://www.geofftuttle.com/projects/rc-planes/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2020 16:41:51 -0500</lastBuildDate><atom:link href="https://www.geofftuttle.com/projects/rc-planes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RC Plane With Needle Cutter</title>
+      <link>https://www.geofftuttle.com/projects/rc-planes/rc-plane-with-needle-cutter/</link>
+      <pubDate>Sun, 08 Mar 2020 16:41:51 -0500</pubDate>
+      
+      <guid>https://www.geofftuttle.com/projects/rc-planes/rc-plane-with-needle-cutter/</guid>
+      <description>I was chatting with a coworker the other day, and the conversation turned to RC planes. Turns out, he was in the same place in his RC journey as I was a few months ago! We talked over the resources we had been using to build planes and the equipment we had been using, and agreed to meet up soon to do some building and flying.
+This coincidence and conversation renewed my interest in flying, and got me to fire up the needle cutter again to start making planes.</description>
+    </item>
+    
+    <item>
+      <title>RC Plane From Pen Plotter</title>
+      <link>https://www.geofftuttle.com/projects/rc-planes/rc-plane-from-pen-plotter/</link>
+      <pubDate>Sun, 30 Jun 2019 16:38:56 -0500</pubDate>
+      
+      <guid>https://www.geofftuttle.com/projects/rc-planes/rc-plane-from-pen-plotter/</guid>
+      <description>&lt;p&gt;After a bit of mulling over the last RC plane adventure, I decided to jump back in with another build. I wanted something that looked sharp, was somewhat compact, and dedicated to training.&lt;/p&gt;
+&lt;p&gt;I decided on the &lt;a href=&#34;https://www.flitetest.com/articles/flite-test-tiny-trainer&#34;&gt;FT Tiny Trainer&lt;/a&gt;, a scratch-build design from Flite Test.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Foam Plane</title>
+      <link>https://www.geofftuttle.com/projects/rc-planes/foam-plane/</link>
+      <pubDate>Fri, 22 Feb 2019 16:38:07 -0500</pubDate>
+      
+      <guid>https://www.geofftuttle.com/projects/rc-planes/foam-plane/</guid>
+      <description>Ever since I was a kid, I have had an interest in remote controlled anything. When I was younger, I had a few RC cars, like a Rebound that could drive even when flipped over, and another dune buggy style that was less forgiving when upside down.
+However, anything that flew was prohibitively expensive and probably would not have survived my &amp;ldquo;full throttle&amp;rdquo; approach to RC vehicles.
+Fortunately, the rise of hobbyist electronics, DIY drones, and cheap components with cheap shipping from China has made RC planes a lot easier to get into, and a lot easier to rebuild after the inevitable crash.</description>
+    </item>
+    
+  </channel>
+</rss>
